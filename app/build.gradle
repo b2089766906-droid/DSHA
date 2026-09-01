@@ -61,7 +61,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.dsh.client"
+        applicationId "com.dsh.client2"
         minSdk 26
         targetSdk 34
         versionCode 104
